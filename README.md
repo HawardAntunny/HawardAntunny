@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá. Bem vindo ao meu perfil 👋
 
-<!--
-**HawardAntunny/HawardAntunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professor Haward Antunny 
 
-Here are some ideas to get you started:
+- Sou professor do 1º ano e do 2º ano
+- Desenvolvimento da linguagem JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em ctt comigo
+
+-  americo_haward785@escola.pr.gov.br
+-  @hawamerico
+
+![](https://media.tenor.com/pUxf0cC-NKIAAAAM/teacher-barbie.gif)
