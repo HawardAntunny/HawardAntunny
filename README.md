@@ -2,8 +2,8 @@
 
 Professor Haward Antunny 
 
-- Sou professor do 1º ano e do 2º ano
-- Desenvolvimento da linguagem JavaScript, HTML, CSS
+- Sou professor dde programação (Matemática II) da rede básica de ensino.
+- Desenvolvimento da linguagem JS, HTML, CSS
 
 ### Para entrar em ctt comigo
 
