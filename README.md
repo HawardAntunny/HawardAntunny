@@ -3,7 +3,7 @@
 
 # Olá, eu sou Haward Antunny 👋
 
-Sou **professor de Matemática e Programação** e **mestrando em Bioestatística (UEM)**. Planejo e executo aulas com foco em aprendizagem **lúdica, gamificada e ativa**, integrando **resolução de problemas**, **projetos** e **tecnologia** (R, Python e web). Busco formar estudantes protagonistas, capazes de **investigar, modelar e comunicar** ideias matemáticas.
+Sou **professor de Matemática e Programação** e **Mestre e Doutorando em Bioestatística (UEM)**. Planejo e executo aulas com foco em aprendizagem **lúdica, gamificada e ativa**, integrando **resolução de problemas**, **projetos** e **tecnologia** (R, Python e web). Busco formar estudantes protagonistas, capazes de **investigar, modelar e comunicar** ideias matemáticas.
 <p align="center">
   <img src="./img/Logo.gif.gif" alt="GIF - Américo HAS (Haward Antunny)" width="200"/>
 </p>
